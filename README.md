@@ -1,4 +1,4 @@
-## Projeto para Atividade 01 da Lista de Estrutura Sequencial
+## Projeto para Atividade 03 da Lista de Estrutura Sequencial
 
 Sejam bem-vindos ao projeto..
 
